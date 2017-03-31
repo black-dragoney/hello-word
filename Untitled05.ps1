@@ -1,1 +1,0 @@
-remove-Item "C:\users\public\ps03.txt"
