@@ -76,7 +76,7 @@ https://github.com/samratashok/nishang
         
         [Parameter(Position = 2, Mandatory = $False)]
         [String]
-        $PayloadPath = "C:\users\public\cmd.bat",
+        $PayloadPath = "C:\windows\temp\cmd.bat",
        
         [Parameter(Position = 3, Mandatory = $False)]
         [String]
